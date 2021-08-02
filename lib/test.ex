@@ -1,5 +1,6 @@
 defmodule Test do
     alias Rockelivery.User
+    alias  Rockelivery.Users.Create
 
     def test do
        param =  %{
@@ -12,7 +13,7 @@ defmodule Test do
            name: "Wagner"
         }
 
-        User.changeset(param)
+        Create.call(param)
     end
 
 
