@@ -13,10 +13,10 @@ content-type: application/json
     "address": "Rua AB",
     "age": 25,
     "cep": "29000000",
-    "cpf": "12345678920",
+    "cpf": "12345678927",
     "password": "12345679",
     "name": "Adamastor",
-    "email": "myemail@mail.com"
+    "email": "myemmail@mail.com"
 }
 
 ##
