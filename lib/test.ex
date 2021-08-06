@@ -2,6 +2,7 @@ defmodule Test do
     alias Rockelivery.User
     alias  Rockelivery.Users.Create
     alias Rockelivery.Users.Get
+    alias Rockelivery.Users.Delete
 
     def test do
         # "91712c47-2086-4b8b-85ea-155ac032c514"
@@ -17,7 +18,9 @@ defmodule Test do
 
         # Create.call(param)
 
-        Get.by_id("91712c47-2086-4b8b-85ea-155ac032c515")
+        Get.by_id("91712c47-2086-4b8b-85ea-155ac032c514")
+        # Delete.call("91712c47-2086-4b8b-85ea-155ac032c514")
+
     end
 
 

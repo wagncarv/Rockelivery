@@ -2,7 +2,13 @@
 
 ###
 
-GET http://localhost:4000/api/users/91712c47-2086-4b8b-85ea-155ac032c51
+GET http://localhost:4000/api/users/a8f671d1-1701-43ca-a60c-b0512c3da912
+
+###
+
+DELETE  http://localhost:4000/api/users/a8f671d1-1701-43ca-a60c-b0512c3da912
+
+###
 
 ###
 
