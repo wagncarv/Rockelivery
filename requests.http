@@ -35,9 +35,9 @@ content-type: application/json
     "age": 26,
     "cep": "29000022",
     "cpf": "12345678929",
-    "password": "",
+    "password": "123",
     "name": "Adamastor",
-    "email": "meunovoemail@mail.com"
+    "email": "meunovoemailmail.com"
 }
 
 ##
